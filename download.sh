@@ -1,0 +1,1 @@
+rsync -avz makinon:~/match_modalities/*.json .
